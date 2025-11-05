@@ -11,3 +11,6 @@ z + y + x
 z - y + x
 
 #crucial update x is actually not an integer
+
+#new content; another idea for analysis
+new_data <- x*y
