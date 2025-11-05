@@ -1,6 +1,6 @@
 #this is my new R script
 
-x <- 10
+x <- 546
 y <- x + 3
 z <- y - x
 
